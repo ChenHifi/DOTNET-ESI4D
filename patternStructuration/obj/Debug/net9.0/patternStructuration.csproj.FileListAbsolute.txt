@@ -1,0 +1,15 @@
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.sourcelink.json
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\bin\Debug\net9.0\patternStructuration.exe
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\bin\Debug\net9.0\patternStructuration.deps.json
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\bin\Debug\net9.0\patternStructuration.runtimeconfig.json
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\bin\Debug\net9.0\patternStructuration.dll
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\bin\Debug\net9.0\patternStructuration.pdb
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.dll
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\refint\patternStructuration.dll
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.pdb
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\patternStructuration.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\DOTNET-ESI4D\patternStructuration\obj\Debug\net9.0\ref\patternStructuration.dll

@@ -121,3 +121,54 @@ Cas d'usage:
 - Le pattern Singleton permet d'assurer qu'une classe ne possède qu'une seule instance au cours de l'exécution du programme
 
 - Une méthode de classe unique qui retourne cette instance
+
+# Chapitre 9 - Introduction aux patterns de structuration
+
+## 9.1. - Présentation
+
+- Facilite l'indépendance de l'interface d'un objet vis-à-vis de son implémentation. Dans le cas d'un ensemble d'objets, il s'agit aussi de rendre cette interface indépendante de la hiérarchie des classes et de la composition des objets
+
+- Les patterns de structuration encapsulent la composition des objets ( augmentation du niveau d'abstraction )
+
+- Précédemment les patterns de création encapsulent des objets 
+  
+# Chapitre 10 - Le pattern Adapter
+
+## 10.1. Description
+
+## 10.2 Exemple
+
+![[Pasted image 20241231121241.png]]
+
+# Chapitre 11 - Le pattern Bridge
+
+## 11.1. Description
+
+- Séparer l'aspect d'implémentation d'un objet de son aspect représentation et d'interface
+
+```java  
+// Implementation  
+interface TV{  
+  void MonterLeSon();  
+}  
+// Abstraction  
+class Telecommande{  
+  protected TV tv; // Le pont vers l'implementation
+
+  public void MonterLeVolume(){  
+    tv.MonterLeSon();  
+  }  
+}
+
+class TVSony implements TV{  
+  public void MonterLeSon(){  
+    System.out.println("Sony: Monter le son");  
+  }  
+}
+
+class TVSamsung implements TV {  
+  public void MonterLeSon(){  
+    System.out.println("Samsung: Monter le son");  
+  }  
+}  
+```
