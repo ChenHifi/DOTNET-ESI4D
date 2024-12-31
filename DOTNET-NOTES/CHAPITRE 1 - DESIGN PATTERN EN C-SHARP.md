@@ -172,3 +172,13 @@ class TVSamsung implements TV {
   }  
 }  
 ```
+
+# Chapitre 13 - Le pattern Decorator
+
+## 13.1. Description
+
+- Le but du pattern est d'ajouter dynamiquement des fonctionnalités supplémentaires à un objet
+- Aucune modification de l'interface de l'objet
+- Transparent vis à vis des clients
+- Une alternative à la création d'une sous-classe pour enrichir un objet
+
