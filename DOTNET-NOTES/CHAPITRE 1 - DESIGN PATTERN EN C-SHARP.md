@@ -99,6 +99,21 @@ public class Program {
 - On les appelle Prototype
 - Capacité de clonage
 
+![[image-8.png]]
+
+## 7.4. Domaines d'utilisation
+
+Le design pattern prototype permet de créer des copies d'objets existants sans rendre le code dépendant de leurs classes concrètes. Au lieu de créer un objet à partir de zéro, on clone un objet existant (le prototype) et on le modifie si besoin.
+
+C'est comme faire une photocopie d'un document : on copie l'original et on peu modifier la copie
+
+l'avantage principal est la création d'objets complexes simplifiés
+
+Cas d'usage:
+- Objets avec de nombreuses configurations  ( éditeur graphique : formes géométriques )
+- En jeux vidéo, création d'ennemis et leurs variations en grande qté
+- Création d'une configuration par défaut dans un jeu / logiciel ( permet de restaurer le défaut rapidement et de configurer à nouveau )
+- Pour éviter la création d'objets systèmes couteux : connexion, réseaux, ressources partagées.
 # Chapitre 8 - Le pattern Sigleton
 
 ## 8.1. Description
